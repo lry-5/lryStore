@@ -1,0 +1,17 @@
+debug/main.o
+debug/mainwindow.o
+debug/plant.o
+debug/plantcard.o
+debug/config.o
+debug/game.o
+debug/bullet.o
+debug/objmov.o
+debug/gamehelper.o
+debug/zombie.o
+debug/moc_mainwindow.o
+debug/moc_plant.o
+debug/moc_plantcard.o
+debug/moc_game.o
+debug/moc_objmov.o
+debug/moc_gamehelper.o
+debug/moc_zombie.o

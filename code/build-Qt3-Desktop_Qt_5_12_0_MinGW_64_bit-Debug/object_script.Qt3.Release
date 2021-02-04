@@ -1,0 +1,17 @@
+release/main.o
+release/mainwindow.o
+release/plant.o
+release/plantcard.o
+release/config.o
+release/game.o
+release/bullet.o
+release/objmov.o
+release/gamehelper.o
+release/zombie.o
+release/moc_mainwindow.o
+release/moc_plant.o
+release/moc_plantcard.o
+release/moc_game.o
+release/moc_objmov.o
+release/moc_gamehelper.o
+release/moc_zombie.o
